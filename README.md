@@ -94,14 +94,13 @@ After a successful run, the following outputs will be generated:
 
 This project was created by a team of students from Jönköping University's School of Engineering (JTH) for the Reinforcement Learning Course (TFSS25).
 
-For questions, feedback, or collaborations, please feel free to reach out to any of the authors or open an issue on the project's repository.
-
 | Name                    | Email Address            |
 | ----------------------- | ------------------------ |
-| **Hossein Ghadirzadeh** | `ghmo23az@student.ju.se` |
 | **Noor Alsaadi**        | `alno21fp@student.ju.se` |
-| **Koray Duzgun**        | `duko23hj@student.ju.se` |
 | **Mohamad Alkhaled**    | `almo24jy@student.ju.se` |
+| **Hossein Ghadirzadeh** | `ghmo23az@student.ju.se` |
+| **Koray Duzgun**        | `duko23hj@student.ju.se` |
+
 
 **Jönköping University, School of Engineering (JTH)**<br>
 _October 2025_
