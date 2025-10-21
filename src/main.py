@@ -1,11 +1,3 @@
-"""
-Main entry point for the project.
-
-This script initializes the garden environment and the two reinforcement learning agents
-(Q-Learning and Policy Gradient), runs the training process, analyzes the results,
-and generates plots and animations to visualize the agents' performance.
-"""
-
 from pathlib import Path
 from envs.garden_env import MultiPlantGardenEnv
 from agents.q_learning_agent import SimpleQLearningAgent
@@ -18,7 +10,6 @@ from config import NUM_PLANTS
 
 
 def main():
-    """Main function to run the entire experiment."""
     print("Initializing environments and agents...")
     # Initialize two separate environments, one for each agent, to keep their states independent.
     env_q = MultiPlantGardenEnv(num_plants=NUM_PLANTS)
